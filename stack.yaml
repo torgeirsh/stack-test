@@ -1,0 +1,6 @@
+resolver: lts-14.12
+packages:
+- .
+docker:
+  enable: true
+  repo: "fpco/stack-build:lts-14.12"
